@@ -6,9 +6,7 @@
 
 > A retro-styled, 2-player arcade air hockey game featuring reactive physics and neon aesthetics.
 
-## 🖼️ Preview
 
-![Game Screenshot](https://via.placeholder.com/800x400/000000/39FF14?text=PIXEL+HOCKEY+PREVIEW)
 
 ## 🎮 Features
 
@@ -24,9 +22,4 @@
 * **Language:** Python 3
 * **Library:** [Pygame](https://www.pygame.org/)
 
-## 📦 Installation & Setup
 
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/YOUR_USERNAME/pixel-hockey.git](https://github.com/YOUR_USERNAME/pixel-hockey.git)
-cd pixel-hockey
